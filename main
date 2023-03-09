@@ -1,0 +1,18 @@
+package CHUONG4;
+
+public class main {
+
+   public static void main(String[] args) {
+       HoaQua qua=new HoaQua();
+       System.out.println(Qua);
+       QuaCam Qam=new QuaCam();
+       System.out.println(Cam);
+       CamCaoPhong Cao=new CamCaoPhong();
+       System.out.println(Cao);
+       CamSanh Sanh=new CamSanh();
+       System.out.println(Sanh);
+       QuaTao Tao=new QuaTao();
+       System.out.println(Tao);
+    }
+
+}
